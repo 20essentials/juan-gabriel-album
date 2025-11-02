@@ -1,0 +1,23 @@
+export const nameBand = 'JUAN GABRIEL';
+export let nameSongs = [
+	"QUERIDA", /*1*/
+	"HASTA QUE TE CONOCÍ", /*2*/
+	"ABRÁZAME MUY FUERTE", /*3*/
+	"ASÍ FUE", /*4*/
+	"YO NO NACÍ PARA AMAR", /*5*/
+	"AMOR ETERNO", /*6*/
+	"QUERIDA FT. ALEJANDRA GUZMAN (EN VIVO)", /*7*/
+	"SE ME OLVIDÓ OTRA VEZ", /*8*/
+	"YA LO SÉ QUE TÚ TE VAS", /*9*/
+	"EL NOA NOA", /*10*/
+	"TE LO PIDO POR FAVOR", /*11*/
+	"INOCENTE POBRE AMIGO", /*12*/
+	"NO TENGO DINERO", /*13*/
+	"HE VENIDO A PEDIRTE PERDÓN", /*14*/
+	"PERDÓNAME, OLVIDALO", /*15*/
+	"LA DIFERENCIA", /*16*/
+	"CARAY", /*17*/
+	"MI FRACASO", /*18*/
+	" NO ME IMPORTARÁ TU OLVIDO", /*19*/
+	"NO VALE LA PENA", /*20*/
+]
